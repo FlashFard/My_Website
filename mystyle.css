@@ -18,7 +18,6 @@ overflow: hidden;
 .logo{
   width: 200px;
   height: 100px;
-  cursor: pointer;
 }
 .navbar{
   width: 100%
@@ -151,4 +150,7 @@ bottom: 30px
 .floates img:nth-child(7){
   animation-delay: 7s;
   width: 35px;
+}
+body{
+  cursor: url("mouse.png"), url("mouse.cur"), default;
 }
