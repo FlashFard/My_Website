@@ -57,7 +57,7 @@ h1{
   background: linear-gradient(#00545d, #000729);
   position: absolute;
   right: 0;
-  cursor: auto;
+  cursor: url("mouse.png"), url("mouse.cur"), deafult;
 top: 0;
 }
 .gifs{
